@@ -6,9 +6,12 @@ selenium-server (http://selenium.googlecode.com/files/selenium-server-standalone
 
 # Install the dependencies
 
-java -jar "path of selenium-server"
 npm install 
 npm install -g -force cucumber
+
+# Run selenium 
+
+java -jar "path of selenium-server"
 
 # Run the script
 
