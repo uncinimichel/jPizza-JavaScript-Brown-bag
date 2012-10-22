@@ -1,5 +1,5 @@
 jPizza-JavaScript-Brown-bag
 ===========================
-try commit.
 
-Another javaScript brown bag that has pizza
+Another javaScript brown bag that has pizza, 
+readme to how to run showcases are inside the showcases

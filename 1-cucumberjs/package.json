@@ -1,0 +1,30 @@
+{
+  "name": "1-cucumberjs",
+  "version": "0.0.1",
+  "private": true,
+  "contributors": [ 
+    {
+      "name": "Daniel Armstrong-Breed",
+      "email": "Daniel.Armstrong-Breed@bskyb.com"
+    },
+    {
+      "name": "Michel Uncini",
+      "email": "Michel.Uncini@bskyb.com"
+    },
+    {
+      "name": "Kim Westley",
+      "email": "Kim.Westley@bskyb.com"
+    },
+    {
+      "name": "Sabeur Thabti",
+      "email": "Sabeur.Thabti@bskyb.com"
+    }
+  ],
+  "noAnalyze": true,
+  "devDependencies": {
+    "webdriverjs": "0.6.9"
+  },
+  "engine": {
+    "node": ">=0.6.10"
+  }
+}
