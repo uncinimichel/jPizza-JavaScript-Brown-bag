@@ -15,4 +15,4 @@ java -jar "path of selenium-server"
 
 # Run the script
 
-cucumber.js feature
+cucumber.js
